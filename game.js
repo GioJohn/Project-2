@@ -3,9 +3,9 @@ var actorChars = {
     "@": Player,
     "o": Coin, // A coin will wobble up and down
     "s": Spikes, //Pointy hazard that kills you
-	"k": Key, //A key that unlocks  the door ending the level
-	"d": Door, //2nd level goal, requires key to open
-	"h": House, //Final level goal
+    "k": Key, //A key that unlocks  the door ending the level
+    "d": Door, //2nd level goal, requires key to open
+    "h": House, //Final level goal
     "=": Lava, "|": Lava, "v": Lava //Boiling hot hazard that kills you
 };
  
